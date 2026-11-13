@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bc285886450a7d16",
+            "id": "4ba8b1a0ff53b453",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -170,6 +170,16 @@
             }
           },
           {
+            "id": "777d9e12116c9d7a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
             "id": "7fdd17ca6beabf4c",
             "type": "leaf",
             "state": {
@@ -180,9 +190,7 @@
                   "openTabs": [
                     {
                       "tabId": "tab-1794542139569-ycenwyo",
-                      "conversationId": null,
-                      "draftModel": "opus",
-                      "providerId": "claude"
+                      "conversationId": "conv-1794542169997-3eyi5wkop"
                     }
                   ],
                   "activeTabId": "tab-1794542139569-ycenwyo"
@@ -191,23 +199,13 @@
               "icon": "bot",
               "title": "Claudian"
             }
-          },
-          {
-            "id": "777d9e12116c9d7a",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 354.171875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -222,6 +220,29 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7fdd17ca6beabf4c",
-  "lastOpenFiles": []
+  "active": "777d9e12116c9d7a",
+  "lastOpenFiles": [
+    "wiki/知识库与 RAG.md",
+    "wiki/P.A.R.A. 分类法.md",
+    "wiki/sources/2026-11-13-什么是知识库与-RAG.md",
+    "wiki/sources/2026-11-13-如何用-PARA-搭建个人知识库.md",
+    "wiki/log.md",
+    "AGENTS.md",
+    "raw/2026-11-13-什么是知识库与 RAG（检索增强生成）.md",
+    "raw/2026-11-13-如何用 P.A.R.A.搭建个人知识库.md",
+    "README.md",
+    "raw/README.md",
+    "wiki/sources/README.md",
+    "templates/source-summary.md",
+    "templates/knowledge-page.md",
+    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-01.jpg",
+    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-02.jpg",
+    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-03.jpg",
+    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-04.jpg",
+    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库",
+    "raw/如何用 P.A.R.A.搭建个人知识库.md",
+    "assets/README.md",
+    "assets",
+    "wiki/index.md"
+  ]
 }
