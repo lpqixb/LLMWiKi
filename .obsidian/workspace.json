@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2015f97cad9e2b9e",
+        "id": "a92d2f19cc0da642",
         "type": "tabs",
         "children": [
           {
-            "id": "f14bcda6318565bb",
+            "id": "f027b639e3902adc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "AGENTS.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "AGENTS"
             }
           }
         ]
@@ -95,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AGENTS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "AGENTS.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +196,8 @@
                   "activeTabId": "tab-1794542139569-ycenwyo"
                 }
               },
-              "icon": "bot",
-              "title": "Claudian"
+              "icon": "lucide-ghost",
+              "title": "claudian-view"
             }
           }
         ],
@@ -210,15 +216,16 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "777d9e12116c9d7a",
+  "active": "f027b639e3902adc",
   "lastOpenFiles": [
+    "raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.md",
+    "raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.md",
+    "README.md",
     "未命名.canvas",
     "2026-11-14.md",
-    "raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.md",
     "tmp/pdfs/contact.png",
     "tmp/pdfs/wb-5.png",
     "tmp/pdfs/wb-4.png",
@@ -235,7 +242,6 @@
     "tmp/pdfs",
     "tmp",
     "output/pdf",
-    "raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.md",
     "wiki/TokenAge.md",
     "AGENTS.md",
     "wiki/sources/2026-11-14-WorkBuddy-接入-TokenAge-简明教程.md",
@@ -243,7 +249,6 @@
     "wiki/第三方 AI 应用接入.md",
     "wiki/WorkBuddy.md",
     "wiki/DeepSeek Harness.md",
-    "README.md",
     "assets/deepseek-harness-tokenage",
     "raw/2026-11-13-什么是知识库与 RAG（检索增强生成）.md",
     "raw/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md",
