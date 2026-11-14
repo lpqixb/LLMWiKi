@@ -155,7 +155,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,10 +214,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6592dae37b5c9bc6",
+  "active": "777d9e12116c9d7a",
   "lastOpenFiles": [
-    "2026-11-14.md",
     "未命名.canvas",
+    "2026-11-14.md",
     "raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.md",
     "tmp/pdfs/contact.png",
     "tmp/pdfs/wb-5.png",
