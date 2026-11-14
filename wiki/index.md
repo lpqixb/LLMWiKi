@@ -1,7 +1,7 @@
 ---
 type: index
 status: active
-updated: 2026-11-13
+updated: 2026-11-14
 ---
 
 # LLM Wiki
@@ -23,9 +23,15 @@ updated: 2026-11-13
 | [[P.A.R.A. 分类法]] | 概念 | 以行动为目的的四类信息分类框架 | active |
 | [[知识库与 RAG]] | 主题 | 知识库和检索增强生成的定义、流程与边界 | active |
 | [[LLM Wiki（编译式知识库）]] | 概念 | 由 LLM 增量维护的可追溯 Markdown 知识库模式 | active |
+| [[TokenAge]] | 实体 | 提供 OpenAI 兼容 API 的第三方 AI 服务平台 | active |
+| [[DeepSeek Harness]] | 实体 | DeepSeek 推出的桌面端 AI 应用，支持自定义模型 API | active |
+| [[WorkBuddy]] | 实体 | 跨平台桌面 AI 应用，支持自定义供应商接入第三方模型 | active |
+| [[第三方 AI 应用接入]] | 主题 | 桌面 AI 应用接入第三方 OpenAI 兼容 API 的通用模式 | active |
 
 ## 最新摄取
 
+- [[sources/2026-11-14-DeepSeek-Harness-接入-TokenAge-简明教程|DeepSeek Harness 接入 TokenAge 简明教程]]
+- [[sources/2026-11-14-WorkBuddy-接入-TokenAge-简明教程|WorkBuddy 接入 TokenAge 简明教程]]
 - [[sources/2026-11-13-卡帕西-LLM-Wiki-编译式知识库|卡帕西 LLM Wiki：AI 驱动的编译式知识库]]
 - [[sources/2026-11-13-如何用-PARA-搭建个人知识库|如何用 P.A.R.A. 搭建个人知识库]]
 - [[sources/2026-11-13-什么是知识库与-RAG|什么是知识库与 RAG（检索增强生成）]]

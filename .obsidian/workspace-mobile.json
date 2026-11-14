@@ -11,10 +11,12 @@
             "id": "d9fa1d5f7f14ec60",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "pdf",
+              "state": {
+                "file": "output/pdf/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程"
             }
           }
         ]
@@ -113,6 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,9 +166,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "d9fa1d5f7f14ec60",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.md",
+    "raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.md",
+    "wiki/sources/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md"
+  ]
 }

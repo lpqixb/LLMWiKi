@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "45249fd9e92e6900",
+        "id": "2015f97cad9e2b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "9ff8165feb589008",
+            "id": "f14bcda6318565bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/2026-11-13-什么是知识库与 RAG（检索增强生成）.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-11-13-什么是知识库与 RAG（检索增强生成）"
+              "title": "新标签页"
             }
           }
         ]
@@ -99,7 +95,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raw/2026-11-13-什么是知识库与 RAG（检索增强生成）.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raw/2026-11-13-什么是知识库与 RAG（检索增强生成）.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -222,9 +217,39 @@
   },
   "active": "6592dae37b5c9bc6",
   "lastOpenFiles": [
-    "raw/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md",
-    "raw/2026-11-13-如何用 P.A.R.A.搭建个人知识库.md",
+    "2026-11-14.md",
+    "未命名.canvas",
+    "raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.md",
+    "tmp/pdfs/contact.png",
+    "tmp/pdfs/wb-5.png",
+    "tmp/pdfs/wb-4.png",
+    "tmp/pdfs/wb-3.png",
+    "tmp/pdfs/wb-2.png",
+    "tmp/pdfs/wb-1.png",
+    "tmp/pdfs/dsh-8.png",
+    "tmp/pdfs/dsh-7.png",
+    "tmp/pdfs/dsh-6.png",
+    "tmp/pdfs/dsh-5.png",
+    "output/pdf/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.pdf",
+    "output/pdf/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.pdf",
+    "tmp/pdfs/build_tutorial_pdfs.py",
+    "tmp/pdfs",
+    "tmp",
+    "output/pdf",
+    "raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.md",
+    "wiki/TokenAge.md",
+    "AGENTS.md",
+    "wiki/sources/2026-11-14-WorkBuddy-接入-TokenAge-简明教程.md",
+    "wiki/sources/2026-11-14-DeepSeek-Harness-接入-TokenAge-简明教程.md",
+    "wiki/第三方 AI 应用接入.md",
+    "wiki/WorkBuddy.md",
+    "wiki/DeepSeek Harness.md",
+    "README.md",
+    "assets/deepseek-harness-tokenage",
     "raw/2026-11-13-什么是知识库与 RAG（检索增强生成）.md",
+    "raw/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md",
+    "assets/workbuddy-tokenage",
+    "raw/2026-11-13-如何用 P.A.R.A.搭建个人知识库.md",
     "raw/README.md",
     "wiki/sources/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md",
     "wiki/sources/2026-11-13-什么是知识库与-RAG.md",
@@ -232,20 +257,11 @@
     "wiki/P.A.R.A. 分类法.md",
     "wiki/log.md",
     "wiki/index.md",
-    "AGENTS.md",
     "wiki/知识库与 RAG.md",
     "wiki/sources/2026-11-13-如何用-PARA-搭建个人知识库.md",
-    "README.md",
     "wiki/sources/README.md",
     "templates/source-summary.md",
-    "templates/knowledge-page.md",
-    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-01.jpg",
-    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-02.jpg",
-    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-03.jpg",
-    "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库/image-04.jpg",
     "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库",
-    "raw/如何用 P.A.R.A.搭建个人知识库.md",
-    "assets/README.md",
     "assets"
   ]
 }

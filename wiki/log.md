@@ -31,3 +31,12 @@ status: active
 - 创建 [[LLM Wiki（编译式知识库）]] 概念页及对应来源摘要。
 - 更新 [[知识库与 RAG]]，补充编译式 Wiki 与常见 RAG 的关系。
 - 待核验：本库何时需要额外检索能力，以及编译式 Wiki 与 RAG 结合后的维护成本。
+
+## 2026-11-14 — 摄取两份 TokenAge 接入教程
+
+- 处理 `raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.md`：创建来源摘要、[[DeepSeek Harness]] 实体页。
+- 处理 `raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.md`：创建来源摘要、[[WorkBuddy]] 实体页。
+- 创建 [[TokenAge]] 实体页，汇总平台接口信息和已提及模型。
+- 创建 [[第三方 AI 应用接入]] 主题页，综合两份教程中的接入模式差异（Harness 填 Base URL vs WorkBuddy 填完整端点）。
+- 更新 `wiki/index.md`，登记三个实体页和一个主题页。
+- 待核验：TokenAge 模型列表和定价；更多桌面应用的自定义接入方式。

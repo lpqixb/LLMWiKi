@@ -65,8 +65,8 @@
         {
           "value": "opus",
           "label": "qwen3.6-plus",
-          "description": "Custom Opus model (1M context)",
-          "resolvedModel": "qwen3.6-plus[1M]",
+          "description": "tokenapi · qwen3.6-plus · 1M",
+          "resolvedModel": "claude-opus-5",
           "reasoningMetadataResolved": true,
           "supportedEffortLevels": [
             "low",
@@ -79,8 +79,8 @@
         {
           "value": "fable",
           "label": "qwen3.6-plus",
-          "description": "Custom Fable model",
-          "resolvedModel": "qwen3.6-plus[1M]",
+          "description": "tokenapi · qwen3.6-plus · 1M",
+          "resolvedModel": "claude-fable-5",
           "reasoningMetadataResolved": true,
           "supportedEffortLevels": [
             "low",
@@ -93,8 +93,8 @@
         {
           "value": "sonnet",
           "label": "qwen3.6-plus",
-          "description": "Custom Sonnet model (1M context)",
-          "resolvedModel": "qwen3.6-plus[1M]",
+          "description": "tokenapi · qwen3.6-plus · 1M",
+          "resolvedModel": "claude-sonnet-5",
           "reasoningMetadataResolved": true,
           "supportedEffortLevels": [
             "low",
@@ -107,8 +107,8 @@
         {
           "value": "haiku",
           "label": "qwen3.6-plus",
-          "description": "Custom Haiku model",
-          "resolvedModel": "qwen3.6-plus",
+          "description": "tokenapi · qwen3.6-plus",
+          "resolvedModel": "claude-haiku-5-5",
           "reasoningMetadataResolved": true,
           "supportedEffortLevels": [
             "low",
