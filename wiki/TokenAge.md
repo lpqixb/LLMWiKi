@@ -33,8 +33,7 @@ TokenAge 是一个提供 OpenAI 兼容 API 的第三方 AI 服务平台，可通
 - [[DeepSeek Harness]]：通过自定义模型 API 接入，填写 Base URL。
 - [[WorkBuddy]]：通过自定义供应商接入，填写完整聊天接口地址。
 
-## 待核验
+## 补充说明
 
-- [ ] 完整的模型列表和定价结构。
-- [ ] 各模型的工具调用、图片输入、思考模式等能力支持情况。
-- [ ] 与原始 OpenAI API 的兼容性程度。
+- TokenAge 定位为统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口。来源：[[https://www.tokenage.ai/]]
+- 完整模型列表、定价及各项能力需登录后查看，无法在未经认证的情况下核验。

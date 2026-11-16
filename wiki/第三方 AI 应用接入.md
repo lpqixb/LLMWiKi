@@ -38,7 +38,3 @@ created: 2026-11-14
 - 实体：[[DeepSeek Harness]]
 - 实体：[[WorkBuddy]]
 
-## 待核验
-
-- [ ] 更多桌面 AI 应用（如 Cursor、Claude Desktop 等）的自定义模型接入方式。
-- [ ] 不同提供商 API 的协议兼容性差异（如流式响应、工具调用格式）。

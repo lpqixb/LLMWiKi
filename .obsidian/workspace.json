@@ -13,15 +13,170 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/index.md",
+                "file": "wiki/李沛权（Alfred）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "李沛权（Alfred）"
+            }
+          },
+          {
+            "id": "6e4a1de835d4114d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/大权技术.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "大权技术"
+            }
+          },
+          {
+            "id": "1f2929c2b7a2072b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/WorkBuddy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WorkBuddy"
+            }
+          },
+          {
+            "id": "937d14cda471831f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "log"
+            }
+          },
+          {
+            "id": "25f9967bc6b785d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/琦锐科技（KKRay）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "琦锐科技（KKRay）"
+            }
+          },
+          {
+            "id": "0411d319077a7f4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/DeepSeek Harness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DeepSeek Harness"
+            }
+          },
+          {
+            "id": "1f90ed67fc9f439a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/P.A.R.A. 分类法.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "P.A.R.A. 分类法"
+            }
+          },
+          {
+            "id": "3f7231d10f825f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/TokenAge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TokenAge"
+            }
+          },
+          {
+            "id": "d558aba0c1a5942c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/WorkBuddy.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "WorkBuddy"
+            }
+          },
+          {
+            "id": "2257d395c1c5189c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/DeepSeek Harness.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DeepSeek Harness"
+            }
+          },
+          {
+            "id": "5e66f9a49a5b7b3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/知识库与 RAG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "知识库与 RAG"
+            }
+          },
+          {
+            "id": "403e59867d14490c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "wiki/LLM Wiki（编译式知识库）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LLM Wiki（编译式知识库）"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -189,15 +344,15 @@
                   "version": 1,
                   "openTabs": [
                     {
-                      "tabId": "tab-1794804297405-3v1pmvq",
-                      "conversationId": "conv-1794804323223-f3sbl322c"
+                      "tabId": "tab-1794821388835-lofsytf",
+                      "conversationId": "conv-1794821391661-aqvyc661k"
                     },
                     {
-                      "tabId": "tab-1794815613387-s5hre8b",
-                      "conversationId": "conv-1794815624524-of8x8sqn4"
+                      "tabId": "tab-1794822767748-gpcz8dk",
+                      "conversationId": "conv-1794822783174-3uqa4hbwd"
                     }
                   ],
-                  "activeTabId": "tab-1794804297405-3v1pmvq"
+                  "activeTabId": "tab-1794821388835-lofsytf"
                 }
               },
               "icon": "bot",
@@ -209,7 +364,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 354.171875
+    "width": 510.35546875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,27 +379,35 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f027b639e3902adc",
+  "active": "937d14cda471831f",
   "lastOpenFiles": [
-    "wiki/琦锐科技（KKRay）.md",
-    "wiki/index.md",
+    "wiki/LLM Wiki（编译式知识库）.md",
+    "wiki/log.md",
+    "wiki/P.A.R.A. 分类法.md",
+    "wiki/TokenAge.md",
+    "wiki/WorkBuddy.md",
+    "wiki/sources/README.md",
     "wiki/sources/2026-11-16-KKRay官方网站.md",
     "wiki/sources/2026-11-16-Alfred个人网站.md",
+    "wiki/sources/2026-11-14-WorkBuddy-接入-TokenAge-简明教程.md",
+    "wiki/sources/2026-11-14-DeepSeek-Harness-接入-TokenAge-简明教程.md",
+    "wiki/sources/2026-11-13-什么是知识库与-RAG.md",
+    "wiki/sources/2026-11-13-如何用-PARA-搭建个人知识库.md",
+    "wiki/sources/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md",
     "raw/2026-11-16-KKRay官方网站.md",
-    "README.md",
-    "AGENTS.md",
-    "wiki/大权技术.md",
+    "wiki/index.md",
+    "wiki/DeepSeek Harness.md",
+    "wiki/知识库与 RAG.md",
+    "wiki/琦锐科技（KKRay）.md",
+    "wiki/第三方 AI 应用接入.md",
     "wiki/李沛权（Alfred）.md",
+    "wiki/大权技术.md",
+    "README.md",
     "raw/2026-11-16-Alfred个人网站.md",
+    "AGENTS.md",
     "raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程.md",
     "raw/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md",
-    "raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程.md",
-    "raw/2026-11-13-什么是知识库与 RAG（检索增强生成）.md",
-    "raw/2026-11-13-如何用 P.A.R.A.搭建个人知识库.md",
-    "templates/source-summary.md",
-    "templates/knowledge-page.md",
     "未命名.canvas",
-    "2026-11-14.md",
     "tmp/pdfs/contact.png",
     "tmp/pdfs/wb-5.png",
     "tmp/pdfs/wb-4.png",
@@ -261,16 +424,8 @@
     "tmp/pdfs",
     "tmp",
     "output/pdf",
-    "wiki/TokenAge.md",
-    "wiki/sources/2026-11-14-WorkBuddy-接入-TokenAge-简明教程.md",
-    "wiki/sources/2026-11-14-DeepSeek-Harness-接入-TokenAge-简明教程.md",
-    "wiki/第三方 AI 应用接入.md",
-    "wiki/WorkBuddy.md",
-    "wiki/DeepSeek Harness.md",
     "assets/deepseek-harness-tokenage",
     "assets/workbuddy-tokenage",
-    "raw/README.md",
-    "wiki/sources/2026-11-13-卡帕西-LLM-Wiki-编译式知识库.md",
     "assets/2026-11-13-如何用P.A.R.A.搭建个人知识库",
     "assets"
   ]
