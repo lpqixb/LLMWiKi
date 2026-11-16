@@ -35,5 +35,5 @@ TokenAge 是一个提供 OpenAI 兼容 API 的第三方 AI 服务平台，可通
 
 ## 补充说明
 
-- TokenAge 定位为统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口。来源：[[https://www.tokenage.ai/]]
+- TokenAge 定位为统一的 AI 模型聚合与分发网关，支持将各类大语言模型跨格式转换为 OpenAI、Claude、Gemini 兼容接口。来源：[tokenage.ai](https://www.tokenage.ai/)
 - 完整模型列表、定价及各项能力需登录后查看，无法在未经认证的情况下核验。

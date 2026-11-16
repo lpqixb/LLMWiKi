@@ -31,4 +31,4 @@ DeepSeek Harness 是 DeepSeek 推出的桌面端 AI 应用，支持 macOS（Appl
 
 ## 平台限制
 
-- **不支持 Intel Mac**。下载页明确标注"Intel 芯片暂不支持"，仅提供 macOS Apple 芯片和 Windows 版本。来源：[[https://www.deepseek.com/zh/download/]]
+- **不支持 Intel Mac**。下载页明确标注"Intel 芯片暂不支持"，仅提供 macOS Apple 芯片和 Windows 版本。来源：[deepseek.com/zh/download](https://www.deepseek.com/zh/download/)

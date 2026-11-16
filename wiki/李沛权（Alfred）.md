@@ -16,7 +16,7 @@ updated: 2026-11-16
 | 姓名 | 李沛权（Alfred Lee） |
 | 自称 | INTP全栈程序员、AI实战派 |
 | 个人网站 | [alfred666.com](https://www.alfred666.com/) |
-| 站点品牌 | 大权技术（WordPress站点name） |
+| 站点品牌 | [[大权技术]]（WordPress站点name） |
 | 邮箱 | alfredlee90@foxmail.com |
 | 电话 | 13380601442（关于页）、137 9896 7970（KKRay联络页） |
 

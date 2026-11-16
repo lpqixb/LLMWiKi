@@ -25,7 +25,7 @@ accessed: 2026-11-14
 2. TokenAge 的聊天接口地址为 `https://www.tokenage.ai/v1/chat/completions`；WorkBuddy 的"接口地址"字段需要填写完整路径。来源：[[raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程]]
 3. 在 WorkBuddy 中配置路径：设置 → 模型 → 添加模型 → 供应商选"自定义"，填写接口地址、API Key、模型名称。来源：[[raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程]]
 4. 与 Harness 的差异：Harness 填 `/v1` 根地址，WorkBuddy 填完整 `/v1/chat/completions` 地址。来源：[[raw/2026-11-14-DeepSeek Harness 接入 TokenAge 简明教程]] 与 [[raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程]]
-5. 配置和密钥保存在本机 `~/.workbuddy/models.json`，不wik应分享或上传。来源：[[raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程]]
+5. 配置和密钥保存在本机 `~/.workbuddy/models.json`，不应分享或上传。来源：[[raw/2026-11-14-WorkBuddy 接入 TokenAge 简明教程]]
 
 ## 关联
 

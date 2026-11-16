@@ -20,3 +20,7 @@ status: active
 - [[2026-11-13-如何用-PARA-搭建个人知识库|如何用 P.A.R.A. 搭建个人知识库]]
 - [[2026-11-13-什么是知识库与-RAG|什么是知识库与 RAG（检索增强生成）]]
 - [[2026-11-13-卡帕西-LLM-Wiki-编译式知识库|卡帕西 LLM Wiki：AI 驱动的编译式知识库]]
+- [[2026-11-14-DeepSeek-Harness-接入-TokenAge-简明教程|DeepSeek Harness 接入 TokenAge 简明教程]]
+- [[2026-11-14-WorkBuddy-接入-TokenAge-简明教程|WorkBuddy 接入 TokenAge 简明教程]]
+- [[2026-11-16-Alfred个人网站|Alfred个人网站（alfred666.com）站点采集]]
+- [[2026-11-16-KKRay官方网站|KKRay官方网站（kkray.com）站点采集]]
